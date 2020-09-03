@@ -15,7 +15,7 @@ elif Fgrade == "C+":
   gradepoint1 = 2.33
 elif Fgrade == "C":
   gradepoint1 = 2.0
-elif Fgrade == "C-":
+elif Fgrade == "D":
   gradepoint1 = 1.0
 else:
   gradepoint1 = 0.0
@@ -36,7 +36,7 @@ elif Sgrade == "C+":
   gradepoint2 = 2.33
 elif Sgrade == "C":
   gradepoint2 = 2.0
-elif Sgrade == "C-":
+elif Sgrade == "D":
   gradepoint2 = 1.0
 else:
   gradepoint2 = 0.0
@@ -57,7 +57,7 @@ elif Tgrade == "C+":
   gradepoint3 = 2.33
 elif Tgrade == "C":
   gradepoint3 = 2.0
-elif Tgrade == "C-":
+elif Tgrade == "D":
   gradepoint3 = 1.0
 else:
   gradepoint3 = 0.0
